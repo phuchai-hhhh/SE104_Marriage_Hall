@@ -67,7 +67,7 @@
             this.radioButtonMaNV.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonMaNV.Location = new System.Drawing.Point(183, 92);
             this.radioButtonMaNV.Name = "radioButtonMaNV";
-            this.radioButtonMaNV.Size = new System.Drawing.Size(105, 20);
+            this.radioButtonMaNV.Size = new System.Drawing.Size(104, 20);
             this.radioButtonMaNV.TabIndex = 3;
             this.radioButtonMaNV.TabStop = true;
             this.radioButtonMaNV.Text = "Mã nhân viên";
@@ -79,7 +79,7 @@
             this.radioButtonTenNV.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonTenNV.Location = new System.Drawing.Point(320, 92);
             this.radioButtonTenNV.Name = "radioButtonTenNV";
-            this.radioButtonTenNV.Size = new System.Drawing.Size(110, 20);
+            this.radioButtonTenNV.Size = new System.Drawing.Size(109, 20);
             this.radioButtonTenNV.TabIndex = 4;
             this.radioButtonTenNV.TabStop = true;
             this.radioButtonTenNV.Text = "Tên nhân viên";
@@ -91,7 +91,7 @@
             this.radioButtonSDT.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonSDT.Location = new System.Drawing.Point(465, 92);
             this.radioButtonSDT.Name = "radioButtonSDT";
-            this.radioButtonSDT.Size = new System.Drawing.Size(104, 20);
+            this.radioButtonSDT.Size = new System.Drawing.Size(103, 20);
             this.radioButtonSDT.TabIndex = 5;
             this.radioButtonSDT.TabStop = true;
             this.radioButtonSDT.Text = "Số điện thoại";

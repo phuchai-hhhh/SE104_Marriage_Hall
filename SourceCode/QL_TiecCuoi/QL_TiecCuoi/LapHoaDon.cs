@@ -182,7 +182,7 @@ namespace QL_TiecCuoi
             this.label13.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label13.Location = new System.Drawing.Point(231, 101);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(87, 16);
+            this.label13.Size = new System.Drawing.Size(86, 16);
             this.label13.TabIndex = 19;
             this.label13.Text = "Mã hợp đồng";
             // 
@@ -240,7 +240,7 @@ namespace QL_TiecCuoi
             this.label4.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label4.Location = new System.Drawing.Point(287, 5);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(67, 16);
+            this.label4.Size = new System.Drawing.Size(66, 16);
             this.label4.TabIndex = 21;
             this.label4.Text = "Tỉ số phạt";
             this.label4.Click += new System.EventHandler(this.label4_Click);
@@ -299,7 +299,7 @@ namespace QL_TiecCuoi
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(3, 70);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(67, 16);
+            this.label12.Size = new System.Drawing.Size(66, 16);
             this.label12.TabIndex = 28;
             this.label12.Text = "Tiền sảnh";
             // 
@@ -309,7 +309,7 @@ namespace QL_TiecCuoi
             this.radioButtonKhong.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonKhong.Location = new System.Drawing.Point(290, 97);
             this.radioButtonKhong.Name = "radioButtonKhong";
-            this.radioButtonKhong.Size = new System.Drawing.Size(64, 20);
+            this.radioButtonKhong.Size = new System.Drawing.Size(63, 20);
             this.radioButtonKhong.TabIndex = 20;
             this.radioButtonKhong.TabStop = true;
             this.radioButtonKhong.Text = "Không";
@@ -322,7 +322,7 @@ namespace QL_TiecCuoi
             this.radioButtonCo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonCo.Location = new System.Drawing.Point(365, 97);
             this.radioButtonCo.Name = "radioButtonCo";
-            this.radioButtonCo.Size = new System.Drawing.Size(46, 20);
+            this.radioButtonCo.Size = new System.Drawing.Size(45, 20);
             this.radioButtonCo.TabIndex = 19;
             this.radioButtonCo.TabStop = true;
             this.radioButtonCo.Text = "Có ";
@@ -335,7 +335,7 @@ namespace QL_TiecCuoi
             this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label25.Location = new System.Drawing.Point(287, 73);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(140, 16);
+            this.label25.Size = new System.Drawing.Size(139, 16);
             this.label25.TabIndex = 18;
             this.label25.Text = "Áp dụng quy định phạt";
             // 
@@ -345,7 +345,7 @@ namespace QL_TiecCuoi
             this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label24.Location = new System.Drawing.Point(3, 205);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(52, 16);
+            this.label24.Size = new System.Drawing.Size(51, 16);
             this.label24.TabIndex = 11;
             this.label24.Text = "Còn lại:";
             // 
@@ -364,7 +364,7 @@ namespace QL_TiecCuoi
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.Location = new System.Drawing.Point(3, 168);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(63, 16);
+            this.label22.Size = new System.Drawing.Size(62, 16);
             this.label22.TabIndex = 9;
             this.label22.Text = "Tiền cọc:";
             // 
@@ -374,7 +374,7 @@ namespace QL_TiecCuoi
             this.labelTongTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTongTien.Location = new System.Drawing.Point(5, 141);
             this.labelTongTien.Name = "labelTongTien";
-            this.labelTongTien.Size = new System.Drawing.Size(119, 16);
+            this.labelTongTien.Size = new System.Drawing.Size(118, 16);
             this.labelTongTien.TabIndex = 8;
             this.labelTongTien.Text = "Tổng tiền hóa đơn:";
             // 
@@ -394,7 +394,7 @@ namespace QL_TiecCuoi
             this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.Location = new System.Drawing.Point(3, 97);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(67, 16);
+            this.label19.Size = new System.Drawing.Size(66, 16);
             this.label19.TabIndex = 6;
             this.label19.Text = "Tiền phạt:";
             // 
@@ -404,7 +404,7 @@ namespace QL_TiecCuoi
             this.labelDichVu.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelDichVu.Location = new System.Drawing.Point(3, 40);
             this.labelDichVu.Name = "labelDichVu";
-            this.labelDichVu.Size = new System.Drawing.Size(83, 16);
+            this.labelDichVu.Size = new System.Drawing.Size(82, 16);
             this.labelDichVu.TabIndex = 5;
             this.labelDichVu.Text = "Tiền dịch vụ:";
             // 
@@ -414,7 +414,7 @@ namespace QL_TiecCuoi
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.Location = new System.Drawing.Point(3, 13);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(91, 16);
+            this.label17.Size = new System.Drawing.Size(90, 16);
             this.label17.TabIndex = 4;
             this.label17.Text = "Tiền thực đơn:";
             // 
@@ -571,7 +571,7 @@ namespace QL_TiecCuoi
             this.label11.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label11.Location = new System.Drawing.Point(621, 67);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(114, 16);
+            this.label11.Size = new System.Drawing.Size(113, 16);
             this.label11.TabIndex = 7;
             this.label11.Text = "Email khách hàng";
             // 
@@ -581,7 +581,7 @@ namespace QL_TiecCuoi
             this.label10.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label10.Location = new System.Drawing.Point(621, 31);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(158, 16);
+            this.label10.Size = new System.Drawing.Size(157, 16);
             this.label10.TabIndex = 6;
             this.label10.Text = "Số điện thoại khách hàng";
             // 
@@ -591,7 +591,7 @@ namespace QL_TiecCuoi
             this.label9.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label9.Location = new System.Drawing.Point(335, 67);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 16);
+            this.label9.Size = new System.Drawing.Size(119, 16);
             this.label9.TabIndex = 5;
             this.label9.Text = "Địa chỉ khách hàng";
             // 
@@ -601,7 +601,7 @@ namespace QL_TiecCuoi
             this.label8.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label8.Location = new System.Drawing.Point(335, 34);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(104, 16);
+            this.label8.Size = new System.Drawing.Size(103, 16);
             this.label8.TabIndex = 4;
             this.label8.Text = "Tên khách hàng";
             // 
@@ -611,7 +611,7 @@ namespace QL_TiecCuoi
             this.label7.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label7.Location = new System.Drawing.Point(6, 28);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(126, 16);
+            this.label7.Size = new System.Drawing.Size(125, 16);
             this.label7.TabIndex = 3;
             this.label7.Text = "Người lập hợp đồng";
             // 
@@ -621,7 +621,7 @@ namespace QL_TiecCuoi
             this.label6.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label6.Location = new System.Drawing.Point(9, 101);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(110, 16);
+            this.label6.Size = new System.Drawing.Size(109, 16);
             this.label6.TabIndex = 2;
             this.label6.Text = "Ngày tổ chức tiệc";
             // 
@@ -631,7 +631,7 @@ namespace QL_TiecCuoi
             this.label5.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label5.Location = new System.Drawing.Point(6, 67);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(87, 16);
+            this.label5.Size = new System.Drawing.Size(86, 16);
             this.label5.TabIndex = 1;
             this.label5.Text = "Ngày đặt tiệc";
             // 
@@ -664,7 +664,7 @@ namespace QL_TiecCuoi
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(480, 13);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(115, 16);
+            this.label3.Size = new System.Drawing.Size(114, 16);
             this.label3.TabIndex = 1;
             this.label3.Text = "Ngày lập hóa đơn";
             // 

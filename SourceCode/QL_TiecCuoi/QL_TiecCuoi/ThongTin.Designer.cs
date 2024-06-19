@@ -187,7 +187,7 @@
             this.label17.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label17.Location = new System.Drawing.Point(159, 221);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(25, 16);
+            this.label17.Size = new System.Drawing.Size(24, 16);
             this.label17.TabIndex = 29;
             this.label17.Text = "DJ";
             // 
@@ -197,7 +197,7 @@
             this.label16.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label16.Location = new System.Drawing.Point(159, 189);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(40, 16);
+            this.label16.Size = new System.Drawing.Size(39, 16);
             this.label16.TabIndex = 28;
             this.label16.Text = "Ca sĩ";
             // 
@@ -207,7 +207,7 @@
             this.label15.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label15.Location = new System.Drawing.Point(159, 157);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(64, 16);
+            this.label15.Size = new System.Drawing.Size(63, 16);
             this.label15.TabIndex = 27;
             this.label15.Text = "Ban nhạc";
             // 
@@ -217,7 +217,7 @@
             this.label14.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label14.Location = new System.Drawing.Point(159, 125);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(28, 16);
+            this.label14.Size = new System.Drawing.Size(27, 16);
             this.label14.TabIndex = 26;
             this.label14.Text = "MC";
             // 
@@ -227,7 +227,7 @@
             this.label13.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label13.Location = new System.Drawing.Point(159, 93);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(68, 16);
+            this.label13.Size = new System.Drawing.Size(67, 16);
             this.label13.TabIndex = 25;
             this.label13.Text = "Bánh kem";
             // 
@@ -237,7 +237,7 @@
             this.label12.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label12.Location = new System.Drawing.Point(159, 61);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(40, 16);
+            this.label12.Size = new System.Drawing.Size(39, 16);
             this.label12.TabIndex = 24;
             this.label12.Text = "Rượu";
             // 
@@ -247,7 +247,7 @@
             this.checkBox7.ForeColor = System.Drawing.SystemColors.InfoText;
             this.checkBox7.Location = new System.Drawing.Point(16, 252);
             this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(89, 20);
+            this.checkBox7.Size = new System.Drawing.Size(88, 20);
             this.checkBox7.TabIndex = 19;
             this.checkBox7.Text = "Thiên thần";
             this.checkBox7.UseVisualStyleBackColor = true;
@@ -258,7 +258,7 @@
             this.checkBox8.ForeColor = System.Drawing.SystemColors.InfoText;
             this.checkBox8.Location = new System.Drawing.Point(16, 284);
             this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(93, 20);
+            this.checkBox8.Size = new System.Drawing.Size(92, 20);
             this.checkBox8.TabIndex = 20;
             this.checkBox8.Text = "Tung Bông";
             this.checkBox8.UseVisualStyleBackColor = true;
@@ -269,7 +269,7 @@
             this.checkBox6.ForeColor = System.Drawing.SystemColors.InfoText;
             this.checkBox6.Location = new System.Drawing.Point(16, 217);
             this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(72, 20);
+            this.checkBox6.Size = new System.Drawing.Size(71, 20);
             this.checkBox6.TabIndex = 23;
             this.checkBox6.Text = "Tháp ly";
             this.checkBox6.UseVisualStyleBackColor = true;
@@ -280,7 +280,7 @@
             this.checkBox5.ForeColor = System.Drawing.SystemColors.InfoText;
             this.checkBox5.Location = new System.Drawing.Point(16, 185);
             this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(85, 20);
+            this.checkBox5.Size = new System.Drawing.Size(84, 20);
             this.checkBox5.TabIndex = 22;
             this.checkBox5.Text = "Pháo hoa";
             this.checkBox5.UseVisualStyleBackColor = true;
@@ -291,7 +291,7 @@
             this.checkBox4.ForeColor = System.Drawing.SystemColors.InfoText;
             this.checkBox4.Location = new System.Drawing.Point(16, 153);
             this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(88, 20);
+            this.checkBox4.Size = new System.Drawing.Size(87, 20);
             this.checkBox4.TabIndex = 21;
             this.checkBox4.Text = "Máy chiếu";
             this.checkBox4.UseVisualStyleBackColor = true;
@@ -302,7 +302,7 @@
             this.checkBox3.ForeColor = System.Drawing.SystemColors.InfoText;
             this.checkBox3.Location = new System.Drawing.Point(16, 121);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(76, 20);
+            this.checkBox3.Size = new System.Drawing.Size(75, 20);
             this.checkBox3.TabIndex = 20;
             this.checkBox3.Text = "Vũ công";
             this.checkBox3.UseVisualStyleBackColor = true;
@@ -313,7 +313,7 @@
             this.checkBox2.ForeColor = System.Drawing.SystemColors.InfoText;
             this.checkBox2.Location = new System.Drawing.Point(16, 89);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(63, 20);
+            this.checkBox2.Size = new System.Drawing.Size(62, 20);
             this.checkBox2.TabIndex = 19;
             this.checkBox2.Text = "Lễ tân";
             this.checkBox2.UseVisualStyleBackColor = true;
@@ -324,7 +324,7 @@
             this.checkBox1.ForeColor = System.Drawing.SystemColors.InfoText;
             this.checkBox1.Location = new System.Drawing.Point(16, 61);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(64, 20);
+            this.checkBox1.Size = new System.Drawing.Size(63, 20);
             this.checkBox1.TabIndex = 18;
             this.checkBox1.Text = "Giữ xe";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -344,7 +344,7 @@
             this.label11.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label11.Location = new System.Drawing.Point(28, 24);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(52, 16);
+            this.label11.Size = new System.Drawing.Size(51, 16);
             this.label11.TabIndex = 0;
             this.label11.Text = "Dịch vụ";
             // 
@@ -457,7 +457,7 @@
             this.label10.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label10.Location = new System.Drawing.Point(6, 286);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(69, 16);
+            this.label10.Size = new System.Drawing.Size(68, 16);
             this.label10.TabIndex = 8;
             this.label10.Text = "Nước ngọt";
             // 
@@ -467,7 +467,7 @@
             this.label9.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label9.Location = new System.Drawing.Point(6, 253);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(28, 16);
+            this.label9.Size = new System.Drawing.Size(27, 16);
             this.label9.TabIndex = 7;
             this.label9.Text = "Bia";
             // 
@@ -477,7 +477,7 @@
             this.label8.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label8.Location = new System.Drawing.Point(6, 221);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(84, 16);
+            this.label8.Size = new System.Drawing.Size(83, 16);
             this.label8.TabIndex = 6;
             this.label8.Text = "Tráng miệng";
             // 
@@ -487,7 +487,7 @@
             this.label7.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label7.Location = new System.Drawing.Point(6, 189);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(30, 16);
+            this.label7.Size = new System.Drawing.Size(29, 16);
             this.label7.TabIndex = 5;
             this.label7.Text = "Lẩu";
             // 
@@ -497,7 +497,7 @@
             this.label6.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label6.Location = new System.Drawing.Point(6, 157);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(78, 16);
+            this.label6.Size = new System.Drawing.Size(77, 16);
             this.label6.TabIndex = 4;
             this.label6.Text = "Món chính 3";
             // 
@@ -507,7 +507,7 @@
             this.label5.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label5.Location = new System.Drawing.Point(6, 125);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(78, 16);
+            this.label5.Size = new System.Drawing.Size(77, 16);
             this.label5.TabIndex = 3;
             this.label5.Text = "Món chính 2";
             // 
@@ -517,7 +517,7 @@
             this.label4.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label4.Location = new System.Drawing.Point(6, 93);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(78, 16);
+            this.label4.Size = new System.Drawing.Size(77, 16);
             this.label4.TabIndex = 2;
             this.label4.Text = "Món chính 1";
             // 
@@ -527,7 +527,7 @@
             this.label3.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label3.Location = new System.Drawing.Point(6, 61);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(75, 16);
+            this.label3.Size = new System.Drawing.Size(74, 16);
             this.label3.TabIndex = 1;
             this.label3.Text = "Món khai vị";
             // 
@@ -537,7 +537,7 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label2.Location = new System.Drawing.Point(6, 24);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(64, 16);
+            this.label2.Size = new System.Drawing.Size(63, 16);
             this.label2.TabIndex = 0;
             this.label2.Text = "Thực đơn";
             // 

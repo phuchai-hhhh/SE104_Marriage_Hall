@@ -98,6 +98,19 @@ namespace QL_TiecCuoi
             }
         }
 
-       
+        private void labelDangNhap_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DangNhap_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

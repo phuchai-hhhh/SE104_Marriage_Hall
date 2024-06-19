@@ -132,7 +132,7 @@
             this.labelTienCoc.ForeColor = System.Drawing.SystemColors.InfoText;
             this.labelTienCoc.Location = new System.Drawing.Point(6, 327);
             this.labelTienCoc.Name = "labelTienCoc";
-            this.labelTienCoc.Size = new System.Drawing.Size(77, 16);
+            this.labelTienCoc.Size = new System.Drawing.Size(76, 16);
             this.labelTienCoc.TabIndex = 27;
             this.labelTienCoc.Text = "Đặt tiền cọc";
             this.labelTienCoc.Click += new System.EventHandler(this.label20_Click);
@@ -278,7 +278,7 @@
             this.label11.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label11.Location = new System.Drawing.Point(6, 291);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(86, 16);
+            this.label11.Size = new System.Drawing.Size(85, 16);
             this.label11.TabIndex = 19;
             this.label11.Text = "Ngày tổ chức";
             // 
@@ -288,7 +288,7 @@
             this.label10.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label10.Location = new System.Drawing.Point(6, 254);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(42, 16);
+            this.label10.Size = new System.Drawing.Size(41, 16);
             this.label10.TabIndex = 18;
             this.label10.Text = "Email";
             // 
@@ -298,7 +298,7 @@
             this.label9.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label9.Location = new System.Drawing.Point(6, 211);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(67, 16);
+            this.label9.Size = new System.Drawing.Size(66, 16);
             this.label9.TabIndex = 17;
             this.label9.Text = "Điện thoại";
             // 
@@ -308,7 +308,7 @@
             this.label8.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label8.Location = new System.Drawing.Point(6, 173);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(48, 16);
+            this.label8.Size = new System.Drawing.Size(47, 16);
             this.label8.TabIndex = 16;
             this.label8.Text = "Địa chỉ";
             // 
@@ -318,7 +318,7 @@
             this.label7.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label7.Location = new System.Drawing.Point(6, 136);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(91, 16);
+            this.label7.Size = new System.Drawing.Size(90, 16);
             this.label7.TabIndex = 15;
             this.label7.Text = "Họ tên cô dâu";
             // 
@@ -328,7 +328,7 @@
             this.label6.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label6.Location = new System.Drawing.Point(6, 99);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(86, 16);
+            this.label6.Size = new System.Drawing.Size(85, 16);
             this.label6.TabIndex = 14;
             this.label6.Text = "Họ tên chú rể";
             // 
@@ -338,7 +338,7 @@
             this.label5.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label5.Location = new System.Drawing.Point(6, 66);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(104, 16);
+            this.label5.Size = new System.Drawing.Size(103, 16);
             this.label5.TabIndex = 13;
             this.label5.Text = "Tên khách hàng";
             // 
@@ -348,7 +348,7 @@
             this.label4.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label4.Location = new System.Drawing.Point(6, 30);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(63, 16);
+            this.label4.Size = new System.Drawing.Size(62, 16);
             this.label4.TabIndex = 12;
             this.label4.Text = "Ngày lập";
             // 
@@ -394,7 +394,7 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label2.Location = new System.Drawing.Point(17, 30);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(92, 16);
+            this.label2.Size = new System.Drawing.Size(91, 16);
             this.label2.TabIndex = 9;
             this.label2.Text = "Tên nhân viên";
             // 
@@ -413,7 +413,7 @@
             this.label18.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label18.Location = new System.Drawing.Point(22, 99);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(25, 16);
+            this.label18.Size = new System.Drawing.Size(24, 16);
             this.label18.TabIndex = 37;
             this.label18.Text = "Ca";
             // 
@@ -465,7 +465,7 @@
             this.label16.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label16.Location = new System.Drawing.Point(22, 251);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(52, 16);
+            this.label16.Size = new System.Drawing.Size(51, 16);
             this.label16.TabIndex = 31;
             this.label16.Text = "Dịch vụ";
             // 
@@ -475,7 +475,7 @@
             this.label15.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label15.Location = new System.Drawing.Point(22, 211);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(64, 16);
+            this.label15.Size = new System.Drawing.Size(63, 16);
             this.label15.TabIndex = 30;
             this.label15.Text = "Thực đơn";
             // 
@@ -485,7 +485,7 @@
             this.label14.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label14.Location = new System.Drawing.Point(22, 173);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(121, 16);
+            this.label14.Size = new System.Drawing.Size(120, 16);
             this.label14.TabIndex = 29;
             this.label14.Text = "Số lượng nhân viên";
             // 
@@ -495,7 +495,7 @@
             this.label13.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label13.Location = new System.Drawing.Point(22, 136);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(87, 16);
+            this.label13.Size = new System.Drawing.Size(86, 16);
             this.label13.TabIndex = 28;
             this.label13.Text = "Số lượng bàn";
             // 
@@ -505,7 +505,7 @@
             this.label12.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label12.Location = new System.Drawing.Point(22, 66);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(66, 16);
+            this.label12.Size = new System.Drawing.Size(65, 16);
             this.label12.TabIndex = 27;
             this.label12.Text = "Loại sảnh";
             // 

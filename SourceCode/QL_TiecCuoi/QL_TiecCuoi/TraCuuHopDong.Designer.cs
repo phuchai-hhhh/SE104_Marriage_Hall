@@ -163,7 +163,7 @@
             this.radioButtonMaKH.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonMaKH.Location = new System.Drawing.Point(276, 78);
             this.radioButtonMaKH.Name = "radioButtonMaKH";
-            this.radioButtonMaKH.Size = new System.Drawing.Size(126, 20);
+            this.radioButtonMaKH.Size = new System.Drawing.Size(125, 20);
             this.radioButtonMaKH.TabIndex = 4;
             this.radioButtonMaKH.TabStop = true;
             this.radioButtonMaKH.Text = "Tên Khách Hàng";
@@ -187,7 +187,7 @@
             this.radioButtonMaDatTiec.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonMaDatTiec.Location = new System.Drawing.Point(414, 78);
             this.radioButtonMaDatTiec.Name = "radioButtonMaDatTiec";
-            this.radioButtonMaDatTiec.Size = new System.Drawing.Size(111, 20);
+            this.radioButtonMaDatTiec.Size = new System.Drawing.Size(110, 20);
             this.radioButtonMaDatTiec.TabIndex = 5;
             this.radioButtonMaDatTiec.TabStop = true;
             this.radioButtonMaDatTiec.Text = "Số Điện Thoại";

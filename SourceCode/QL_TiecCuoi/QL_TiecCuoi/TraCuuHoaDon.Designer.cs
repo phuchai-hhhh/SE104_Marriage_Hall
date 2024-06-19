@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TraCuuHoaDon));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.buttonInHD = new System.Windows.Forms.Button();
             this.buttonXem = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.dataGridViewTraCuuHoaDon = new System.Windows.Forms.DataGridView();
@@ -40,7 +41,6 @@
             this.radioButtonTenKH = new System.Windows.Forms.RadioButton();
             this.buttonTim = new System.Windows.Forms.Button();
             this.radioButtonMaHD = new System.Windows.Forms.RadioButton();
-            this.buttonInHD = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewTraCuuHoaDon)).BeginInit();
@@ -62,6 +62,16 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(724, 417);
             this.panel1.TabIndex = 11;
+            // 
+            // buttonInHD
+            // 
+            this.buttonInHD.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonInHD.Location = new System.Drawing.Point(491, 382);
+            this.buttonInHD.Name = "buttonInHD";
+            this.buttonInHD.Size = new System.Drawing.Size(90, 26);
+            this.buttonInHD.TabIndex = 12;
+            this.buttonInHD.Text = "In hóa đơn";
+            this.buttonInHD.UseVisualStyleBackColor = true;
             // 
             // buttonXem
             // 
@@ -142,7 +152,7 @@
             this.radioButtonTenKH.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonTenKH.Location = new System.Drawing.Point(259, 78);
             this.radioButtonTenKH.Name = "radioButtonTenKH";
-            this.radioButtonTenKH.Size = new System.Drawing.Size(121, 20);
+            this.radioButtonTenKH.Size = new System.Drawing.Size(120, 20);
             this.radioButtonTenKH.TabIndex = 4;
             this.radioButtonTenKH.TabStop = true;
             this.radioButtonTenKH.Text = "Mã Khách Hàng";
@@ -166,21 +176,11 @@
             this.radioButtonMaHD.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButtonMaHD.Location = new System.Drawing.Point(392, 78);
             this.radioButtonMaHD.Name = "radioButtonMaHD";
-            this.radioButtonMaHD.Size = new System.Drawing.Size(126, 20);
+            this.radioButtonMaHD.Size = new System.Drawing.Size(125, 20);
             this.radioButtonMaHD.TabIndex = 5;
             this.radioButtonMaHD.TabStop = true;
             this.radioButtonMaHD.Text = "Tên Khách Hàng";
             this.radioButtonMaHD.UseVisualStyleBackColor = true;
-            // 
-            // buttonInHD
-            // 
-            this.buttonInHD.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonInHD.Location = new System.Drawing.Point(491, 382);
-            this.buttonInHD.Name = "buttonInHD";
-            this.buttonInHD.Size = new System.Drawing.Size(90, 26);
-            this.buttonInHD.TabIndex = 12;
-            this.buttonInHD.Text = "In hóa đơn";
-            this.buttonInHD.UseVisualStyleBackColor = true;
             // 
             // TraCuuHoaDon
             // 

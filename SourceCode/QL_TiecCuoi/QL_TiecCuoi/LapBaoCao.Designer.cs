@@ -92,7 +92,7 @@
             this.label4.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label4.Location = new System.Drawing.Point(26, 107);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(47, 16);
+            this.label4.Size = new System.Drawing.Size(46, 16);
             this.label4.TabIndex = 14;
             this.label4.Text = "Tháng";
             // 
@@ -110,7 +110,7 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label2.Location = new System.Drawing.Point(368, 68);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(68, 16);
+            this.label2.Size = new System.Drawing.Size(67, 16);
             this.label2.TabIndex = 5;
             this.label2.Text = "Doanh thu";
             // 
@@ -171,7 +171,7 @@
             this.label7.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label7.Location = new System.Drawing.Point(368, 29);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(85, 16);
+            this.label7.Size = new System.Drawing.Size(84, 16);
             this.label7.TabIndex = 5;
             this.label7.Text = "Số lượng tiệc";
             // 
@@ -181,7 +181,7 @@
             this.label6.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label6.Location = new System.Drawing.Point(26, 26);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(63, 16);
+            this.label6.Size = new System.Drawing.Size(62, 16);
             this.label6.TabIndex = 4;
             this.label6.Text = "Ngày lập";
             // 
@@ -191,7 +191,7 @@
             this.label3.ForeColor = System.Drawing.SystemColors.InfoText;
             this.label3.Location = new System.Drawing.Point(26, 65);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(90, 16);
+            this.label3.Size = new System.Drawing.Size(89, 16);
             this.label3.TabIndex = 1;
             this.label3.Text = "Tên người lập";
             // 

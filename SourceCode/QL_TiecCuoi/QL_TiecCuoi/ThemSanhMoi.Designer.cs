@@ -50,7 +50,7 @@
             this.label1.Location = new System.Drawing.Point(36, 89);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(66, 16);
+            this.label1.Size = new System.Drawing.Size(65, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Loại sảnh";
             // 
@@ -60,7 +60,7 @@
             this.label2.Location = new System.Drawing.Point(36, 123);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(64, 16);
+            this.label2.Size = new System.Drawing.Size(63, 16);
             this.label2.TabIndex = 1;
             this.label2.Text = "Tên sảnh";
             // 
@@ -70,7 +70,7 @@
             this.label3.Location = new System.Drawing.Point(36, 166);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(123, 16);
+            this.label3.Size = new System.Drawing.Size(122, 16);
             this.label3.TabIndex = 2;
             this.label3.Text = "Số lượng bàn tối đa";
             // 
@@ -80,7 +80,7 @@
             this.label4.Location = new System.Drawing.Point(354, 89);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(102, 16);
+            this.label4.Size = new System.Drawing.Size(101, 16);
             this.label4.TabIndex = 3;
             this.label4.Text = "Đơn giá tối thiểu";
             // 
@@ -90,7 +90,7 @@
             this.label5.Location = new System.Drawing.Point(354, 123);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(53, 16);
+            this.label5.Size = new System.Drawing.Size(52, 16);
             this.label5.TabIndex = 4;
             this.label5.Text = "Ghi ghú";
             // 
