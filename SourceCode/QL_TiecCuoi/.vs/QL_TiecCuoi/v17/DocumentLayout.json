@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\dangnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\dangnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\thucdondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\thucdondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1BTJ3G2_SQLEXPRESS/Marriage_Hall/True/SqlTable/dbo.TaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1BTJ3G2_SQLEXPRESS/Marriage_Hall/True/SqlTable/dbo.ThongTinSanh.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1BTJ3G2_SQLEXPRESS/Marriage_Hall/True/SqlTable/dbo.BaoCao.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\thongtindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\thongtindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\tracuuhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\tracuuhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\thongtintiecdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\thongtintiecdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\laphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\laphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\tracuunhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\tracuunhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\laphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\laphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\tracuuhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\tracuuhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\themsanhmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\themsanhmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\laphopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\laphopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\diachinhahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\diachinhahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.TaiKhoan [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1BTJ3G2_SQLEXPRESS/Marriage_Hall/True/SqlTable/dbo.TaiKhoan.sql",
+              "ToolTip": "dbo.TaiKhoan [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-19T12:47:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.ThongTinSanh [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1BTJ3G2_SQLEXPRESS/Marriage_Hall/True/SqlTable/dbo.ThongTinSanh.sql",
+              "ToolTip": "dbo.ThongTinSanh [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-19T12:47:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.BaoCao [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1BTJ3G2_SQLEXPRESS/Marriage_Hall/True/SqlTable/dbo.BaoCao.sql",
+              "ToolTip": "dbo.BaoCao [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-19T12:47:28.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DTO\\Class1.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DTO\\Class1.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DTO\\Class1.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:29:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThongTinTiecDAO.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinTiecDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThongTinTiecDAO.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinTiecDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThongTinTiecDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:24:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThucDonDAO.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:44:37.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThongTinDAO.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:44:26.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThongTin.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\ThongTin.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\ThongTin.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\ThongTin.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\ThongTin.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAawC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:44:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAowI8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:35:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LapHoaDon.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\LapHoaDon.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapHoaDon.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\LapHoaDon.cs",
+              "ViewState": "AQIAAMECAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:13:41.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TraCuuHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\TraCuuHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\TraCuuHoaDon.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\TraCuuHoaDon.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\TraCuuHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:49:45.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThongTin.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\ThongTin.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\ThongTin.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\ThongTin.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\ThongTin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:49:29.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\Menu.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\Menu.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\Menu.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:49:06.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DangNhap.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:29:11.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DangNhap.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DangNhap.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAQwFQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:29:11.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThemSanhMoi.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\ThemSanhMoi.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\ThemSanhMoi.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\ThemSanhMoi.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\ThemSanhMoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:49:21.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhapDAO.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:30:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\Menu.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\Menu.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\Menu.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\Menu.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAgwHIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:52:34.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LapHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\LapHoaDon.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapHoaDon.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\LapHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:48:48.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TraCuuHopDong.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\TraCuuHopDong.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\TraCuuHopDong.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\TraCuuHopDong.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\TraCuuHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:49:53.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TraCuuNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\TraCuuNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\TraCuuNhanVien.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\TraCuuNhanVien.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\TraCuuNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:50:01.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\NhanVien.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\NhanVien.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-19T10:49:14.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LapHopDong.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapHopDong.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\LapHopDong.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapHopDong.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\LapHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:48:56.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LapBaoCao.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\LapBaoCao.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\LapBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-19T10:48:40.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DiaChiNhaHang.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DiaChiNhaHang.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DiaChiNhaHang.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DiaChiNhaHang.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\DiaChiNhaHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-19T10:29:11.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaoCaoDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\BaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\BaoCaoDoanhThu.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\BaoCaoDoanhThu.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\BaoCaoDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-19T10:29:11.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

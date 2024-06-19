@@ -112,6 +112,7 @@ namespace QL_TiecCuoi
 
         private void thôngTinTiệcCướiToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form frm = new ThongTin();
             frm.ShowDialog();
         }

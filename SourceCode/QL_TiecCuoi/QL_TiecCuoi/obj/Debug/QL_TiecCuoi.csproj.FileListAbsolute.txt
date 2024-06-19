@@ -65,7 +65,6 @@ D:\NhapMonCNPM\Project\SE104_Marriage_Hall\SourceCode\QL_TiecCuoi\QL_TiecCuoi\bi
 D:\NhapMonCNPM\Project\SE104_Marriage_Hall\SourceCode\QL_TiecCuoi\QL_TiecCuoi\bin\Debug\QL_TiecCuoi.exe
 D:\NhapMonCNPM\Project\SE104_Marriage_Hall\SourceCode\QL_TiecCuoi\QL_TiecCuoi\bin\Debug\QL_TiecCuoi.pdb
 D:\NhapMonCNPM\Project\SE104_Marriage_Hall\SourceCode\QL_TiecCuoi\QL_TiecCuoi\obj\Debug\QL_TiecCuoi.csproj.AssemblyReference.cache
-D:\NhapMonCNPM\Project\SE104_Marriage_Hall\SourceCode\QL_TiecCuoi\QL_TiecCuoi\obj\Debug\QL_TiecCuoi.csproj.SuggestedBindingRedirects.cache
 D:\NhapMonCNPM\Project\SE104_Marriage_Hall\SourceCode\QL_TiecCuoi\QL_TiecCuoi\obj\Debug\QL_TiecCuoi.BaoCaoDoanhThu.resources
 D:\NhapMonCNPM\Project\SE104_Marriage_Hall\SourceCode\QL_TiecCuoi\QL_TiecCuoi\obj\Debug\QL_TiecCuoi.DiaChiNhaHang.resources
 D:\NhapMonCNPM\Project\SE104_Marriage_Hall\SourceCode\QL_TiecCuoi\QL_TiecCuoi\obj\Debug\QL_TiecCuoi.LapBaoCao.resources
