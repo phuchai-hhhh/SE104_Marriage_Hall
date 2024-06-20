@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -14,81 +15,82 @@ namespace QL_TiecCuoi
 {
     public partial class DangNhap : Form
     {
+        string str = "Data Source=DESKTOP-1BTJ3G2\\SQLEXPRESS;Initial Catalog=Marriage_Hall;Integrated Security=True";
+        SqlDataAdapter adt = new SqlDataAdapter();
+        DataTable dt = new DataTable();
         public DangNhap()
         {
             InitializeComponent();
-            textBoxTenDangNhap.ForeColor = Color.LightGray;
-            textBoxTenDangNhap.Text = "Tên Đăng Nhập";
-            this.textBoxTenDangNhap.Leave += new System.EventHandler(this.textBox1_Leave);
-            this.textBoxTenDangNhap.Enter += new System.EventHandler(this.textBox1_Enter);
-
-            textBoxMatKhau.ForeColor = Color.LightGray;
-            textBoxMatKhau.Text = "Mật Khẩu";
-            this.textBoxMatKhau.Leave += new System.EventHandler(this.textBox2_Leave);
-            this.textBoxMatKhau.Enter += new System.EventHandler(this.textBox2_Enter);
+           
+        }
+        public static class GlobalVariables
+        {
+            public static string TaiKhoan { get; set; }
+          
         }
         private void textBox1_Leave(object sender, EventArgs e)
         {
-            if (textBoxTenDangNhap.Text == "")
-            {
-                textBoxTenDangNhap.Text = "Tên Đăng Nhập";
-                textBoxTenDangNhap.ForeColor = Color.Gray;
-            }
+           
         }
 
         private void textBox1_Enter(object sender, EventArgs e)
         {
-            if (textBoxTenDangNhap.Text == "Tên Đăng Nhập")
-            {
-                textBoxTenDangNhap.Text = "";
-                textBoxTenDangNhap.ForeColor = Color.Black;
-            }
+            
         }
 
         private void textBox2_Enter(object sender, EventArgs e)
         {
-            if (textBoxMatKhau.Text == "Mật Khẩu")
-            {
-                textBoxMatKhau.Text = "";
-                textBoxMatKhau.ForeColor = Color.Black;
-            }
+            
         }
 
         private void textBox2_Leave(object sender, EventArgs e)
         {
-            if (textBoxMatKhau.Text == "")
-            {
-                textBoxMatKhau.Text = "Mật Khẩu";
-                textBoxMatKhau.ForeColor = Color.Gray;
-               
-            }
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-   
+            if (textBoxTenDangNhap.Text == "" || textBoxMatKhau.Text == "")
+            {
+                MessageBox.Show("Dữ liệu không hợp lệ!");
+                return;
+            }
+
             string TenDangNhap = textBoxTenDangNhap.Text;
             string MatKhau = textBoxMatKhau.Text;
-            if (_DangNhap(TenDangNhap, MatKhau))
+            using (SqlConnection connection = new SqlConnection(str))
             {
-                this.Hide();
-                Form frm = new Menu();
-                frm.ShowDialog();
-            }
-            else
-            {
-                if (MessageBox.Show("Sai tên đăng nhập hoặc mật khẩu", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == DialogResult.OK)
+                try
                 {
-                    this.Hide();
-                    Form frm = new DangNhap();
-                    frm.ShowDialog();
+                    connection.Open();
+                    string query = "SELECT * FROM TaiKhoan WHERE TenDangNhap = @TenDangNhap AND MatKhau = @MatKhau";
+                    using (SqlCommand cmd = new SqlCommand(query, connection))
+                    {
+                        cmd.Parameters.AddWithValue("@TenDangNhap", TenDangNhap);
+                        cmd.Parameters.AddWithValue("@MatKhau", MatKhau);
+
+                        SqlDataReader reader = cmd.ExecuteReader();
+                        if (reader.Read())
+                        {
+                            this.Hide();
+                            Form frm = new Menu();
+                            frm.ShowDialog();
+                            this.Show();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Sai tên đăng nhập hoặc mật khẩu!");
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi kết nối cơ sở dữ liệu: " + ex.Message);
                 }
             }
         }
-        bool _DangNhap(string TenDangNhap, string MatKhau)
-        {
-            return DangNhapDAO.Instance.DangNhap(TenDangNhap, MatKhau);
-        }
+
+
         private void button1_Click(object sender, EventArgs e)
         {
             if (MessageBox.Show("Bạn chắc chắn muốn đóng ứng dụng", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == DialogResult.OK)

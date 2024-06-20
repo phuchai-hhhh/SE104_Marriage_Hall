@@ -26,7 +26,7 @@ namespace QL_TiecCuoi.DAO
             }
         }
         public DataProvider() { }
-        private string connectionSTR = "Data Source=Data Source=DESKTOP-1BTJ3G2\\SQLEXPRESS;Initial Catalog=Marriage_Hall;Integrated Security=True;Trust Server Certificate=True;Initial Catalog=QuanLyTiecCuoi;Integrated Security=True";// chuoi xac dinh ket noi voi database nao
+        private string connectionSTR = "Data Source=Data Source=DESKTOP-1BTJ3G2\\SQLEXPRESS;Initial Catalog=Marriage_Hall;Integrated Security=True;Initial Catalog=QuanLyTiecCuoi;Integrated Security=True";// chuoi xac dinh ket noi voi database nao
 
         public DataTable ExecuteQuery(string query)
         {
