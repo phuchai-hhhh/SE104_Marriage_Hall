@@ -1,49 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\",
+  "WorkspaceRootPath": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|c:\\users\\dao minh hai\\source\\repos\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\thucdondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\thucdondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\thucdondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\thongtinsanhdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\thongtinsanhdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\thongtinsanhdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\thongtindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\thongtindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\thongtindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\laphopdongdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\laphopdongdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\laphopdongdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dao\\dichvudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\dichvudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\dichvudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|d:\\nhapmoncnpm\\project\\se104_marriage_hall\\sourcecode\\ql_tieccuoi\\ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\dangnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\dangnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\dangnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\ql_tieccuoi\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F915EA3-7EAB-4F29-9732-D3B4FDE0378D}|QL_TiecCuoi\\QL_TiecCuoi.csproj|solutionrelative:ql_tieccuoi\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -59,143 +67,153 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LapBaoCao.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\LapBaoCao.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\LapBaoCao.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAuwEkAAAANAAAA",
+              "Title": "BaoCaoDoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\BaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\BaoCaoDoanhThu.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\BaoCaoDoanhThu.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\BaoCaoDoanhThu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:16:46.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T04:16:39.744Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LapBaoCao.cs [Design]",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\LapBaoCao.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs [Design]",
-              "RelativeToolTip": "QL_TiecCuoi\\LapBaoCao.cs [Design]",
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\NhanVien.cs [Design]",
+              "RelativeToolTip": "QL_TiecCuoi\\NhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:16:44.217Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-22T04:12:12.791Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ThucDonDAO.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Title": "LapBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\LapBaoCao.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\LapBaoCao.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwEkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:16:40.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T12:16:46.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ThongTinSanhDAO.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinSanhDAO.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThongTinSanhDAO.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinSanhDAO.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThongTinSanhDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "LapBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\LapBaoCao.cs",
+              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\LapBaoCao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:16:37.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T12:16:44.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ThongTinDAO.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ThucDonDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThucDonDAO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:16:35.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T12:16:40.306Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LapHopDongDAO.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\LapHopDongDAO.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\LapHopDongDAO.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\LapHopDongDAO.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\DAO\\LapHopDongDAO.cs",
+              "Title": "ThongTinSanhDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinSanhDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThongTinSanhDAO.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinSanhDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThongTinSanhDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:16:29.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T12:16:37.389Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DichVuDAO.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DichVuDAO.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\DichVuDAO.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DichVuDAO.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\DAO\\DichVuDAO.cs",
+              "Title": "ThongTinDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\ThongTinDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:16:26.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataProvider.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DataProvider.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\DataProvider.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DataProvider.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\DAO\\DataProvider.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:43:13.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DangNhapDAO.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCQAAAB5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:42:16.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T12:16:35.999Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DangNhap.cs",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
-              "RelativeDocumentMoniker": "QL_TiecCuoi\\DangNhap.cs",
-              "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
-              "RelativeToolTip": "QL_TiecCuoi\\DangNhap.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAYwEQAAAA8AAAA",
+              "Title": "LapHopDongDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\LapHopDongDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\LapHopDongDAO.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\LapHopDongDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\LapHopDongDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:40:31.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T12:16:29.632Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "DichVuDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DichVuDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\DichVuDAO.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DichVuDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\DichVuDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:16:26.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:43:13.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DangNhapDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DAO\\DangNhapDAO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCQAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:42:16.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QL_TiecCuoi\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
+              "RelativeToolTip": "QL_TiecCuoi\\DangNhap.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwEQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:40:31.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\dao minh hai\\source\\repos\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs",
               "RelativeDocumentMoniker": "QL_TiecCuoi\\DangNhap.cs",
               "ToolTip": "D:\\NhapMonCNPM\\Project\\SE104_Marriage_Hall\\SourceCode\\QL_TiecCuoi\\QL_TiecCuoi\\DangNhap.cs [Design]",
-              "RelativeToolTip": "QL_TiecCuoi\\DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:40:29.265Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-19T15:40:29.265Z"
             }
           ]
         }
