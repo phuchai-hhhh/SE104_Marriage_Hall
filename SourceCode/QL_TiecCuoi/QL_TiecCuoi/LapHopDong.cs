@@ -14,6 +14,7 @@ namespace QL_TiecCuoi
 {
     public partial class LapHopDong : Form
     {
+        private string connectionString = "Data Source=DESKTOP-1BTJ3G2\\SQLEXPRESS;Initial Catalog=Marriage_Hall;Integrated Security=True";
         public LapHopDong()
         {
             InitializeComponent();
@@ -23,7 +24,7 @@ namespace QL_TiecCuoi
             Show_ComboboxCa();
             Show_ComboboxThucDon();
             Show_ComboboxDichVu();
-            
+
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -59,7 +60,7 @@ namespace QL_TiecCuoi
         private void button3_Click(object sender, EventArgs e)
         {
             Console.WriteLine("nhutdev");
-            if (textBoxTenKhachHang.Text != "" && textBoxTenChuRe.Text != "" && textBoxTenCoDau.Text != "" && textBoxDienThoai.Text != "" && textBoxDiaChi.Text != "" && textBoxEmail.Text != "" && textBoxTienCoc.Text != "" && textBoxSoLuongBan.Text != "" && textBoxSLNhanVien.Text != "" )
+            if (textBoxTenKhachHang.Text != "" && textBoxTenChuRe.Text != "" && textBoxTenCoDau.Text != "" && textBoxDienThoai.Text != "" && textBoxDiaChi.Text != "" && textBoxEmail.Text != "" && textBoxTienCoc.Text != "" && textBoxSoLuongBan.Text != "" && textBoxSLNhanVien.Text != "")
             {
                 int a;
                 bool isAValid = int.TryParse(textBoxTienCoc.Text.Trim(), out a);
@@ -93,7 +94,7 @@ namespace QL_TiecCuoi
                                 MessageBox.Show("Số lương nhân viên phải bằng số lượng bàn!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                                 return;
                             }
-                            else if (b == c )
+                            else if (b == c)
                             {
                                 DataProvider provider = new DataProvider();
                                 string formatDate = "MM/dd/yyyy";
@@ -119,7 +120,7 @@ namespace QL_TiecCuoi
                                         + comboBoxThucDon.SelectedValue.ToString().Trim() + "','"
                                         + textBoxSLNhanVien.Text + "' , '"
                                         + textBoxSoLuongBan.Text + "', '"
-                                       /// + textBoxTrangThai.Text + "', '"
+                                        /// + textBoxTrangThai.Text + "', '"
                                         + comboBoxCa.SelectedValue.ToString().Trim() + "' )";
                                 string query3 = "Insert into NhanVienTiepTan(TenNhanVien) values ( '" + comboBoxTenNhanVien.SelectedValue.ToString().Trim() + "')";
                                 Console.WriteLine("Query 1", query1);
@@ -132,7 +133,7 @@ namespace QL_TiecCuoi
                                 }
                             }
                         }
-                      
+
 
                         // MessageBox.Show("Bạn đã lưu thành công!", "THÔNG BÁO", MessageBoxButtons.OK);
                     }
@@ -237,7 +238,7 @@ namespace QL_TiecCuoi
                                         + comboBoxThucDon.SelectedValue.ToString().Trim() + "','"
                                         + textBoxSLNhanVien.Text + "' , '"
                                         + textBoxSoLuongBan.Text + "', '"
-                                       //+ textBoxTrangThai.Text + "', '"
+                                        //+ textBoxTrangThai.Text + "', '"
                                         + comboBoxCa.SelectedValue.ToString().Trim() + "' )";
                                 string query3 = "Insert into NhanVienTiepTan(TenNhanVien) values ( '" + comboBoxTenNhanVien.SelectedValue.ToString().Trim() + "')";
                                 Console.WriteLine("Query 1", query1);
@@ -296,17 +297,18 @@ namespace QL_TiecCuoi
                                         + comboBoxThucDon.SelectedValue.ToString().Trim() + "','"
                                         + textBoxSLNhanVien.Text + "' , '"
                                         + textBoxSoLuongBan.Text + "', '"
-                                       //+ textBoxTrangThai.Text + "', '"
+                                        //+ textBoxTrangThai.Text + "', '"
                                         + comboBoxCa.SelectedValue.ToString().Trim() + "' )";
                                 string query3 = "Insert into NhanVienTiepTan(TenNhanVien) values ( '" + comboBoxTenNhanVien.SelectedValue.ToString().Trim() + "')";
 
-                                if (KtraToChuc()) {
+                                if (KtraToChuc())
+                                {
                                     provider.ExecuteWrite(query1);
                                     provider.ExecuteWrite(query2);
                                     provider.ExecuteWrite(query3);
                                     MessageBox.Show("Bạn đã lưu thành công!", "THÔNG BÁO", MessageBoxButtons.OK);
                                 }
-                                
+
                             }
                         }
 
@@ -355,7 +357,7 @@ namespace QL_TiecCuoi
                                         + comboBoxThucDon.SelectedValue.ToString().Trim() + "','"
                                         + textBoxSLNhanVien.Text + "' , '"
                                         + textBoxSoLuongBan.Text + "', '"
-                                      // + textBoxTrangThai.Text + "', '"
+                                        // + textBoxTrangThai.Text + "', '"
                                         + comboBoxCa.SelectedValue.ToString().Trim() + "' )";
                                 string query3 = "Insert into NhanVienTiepTan(TenNhanVien) values ( '" + comboBoxTenNhanVien.SelectedValue.ToString().Trim() + "')";
                                 Console.WriteLine("Query 1", query1);
@@ -366,7 +368,7 @@ namespace QL_TiecCuoi
                                     provider.ExecuteWrite(query3);
                                     MessageBox.Show("Bạn đã lưu thành công!", "THÔNG BÁO", MessageBoxButtons.OK);
                                 }
-                           
+
                             }
                         }
 
@@ -374,7 +376,7 @@ namespace QL_TiecCuoi
 
                 }
 
-                
+
             }
             else
             {
@@ -425,53 +427,138 @@ namespace QL_TiecCuoi
 
         public void Show_ComboboxTenNhanVien()
         {
-            string query = "select * from NhanVienTiepTan";
-            DataProvider provider = new DataProvider();
-            comboBoxTenNhanVien.DataSource = provider.ExecuteQuery(query);
-            comboBoxTenNhanVien.DisplayMember = "TenNhanVien";
-            comboBoxTenNhanVien.ValueMember = "id";
+            string query = "SELECT * FROM NhanVienTiepTan";
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        SqlDataAdapter adapter = new SqlDataAdapter(command);
+                        DataTable nhanVienTable = new DataTable();
+                        adapter.Fill(nhanVienTable);
+
+                        comboBoxTenNhanVien.DataSource = nhanVienTable;
+                        comboBoxTenNhanVien.DisplayMember = "TenNhanVien";
+                        comboBoxTenNhanVien.ValueMember = "id";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi kết nối cơ sở dữ liệu: " + ex.Message);
+                }
+            }
         }
+
         public void Show_ComboboxLoaiSanh()
         {
-            string query = "select * from ThongTinSanh";
-            DataProvider provider = new DataProvider();
-            comboBoxLoaiSanh.DataSource = provider.ExecuteQuery(query);
-            comboBoxLoaiSanh.DisplayMember = "LoaiSanh";
-            comboBoxLoaiSanh.ValueMember = "id";//testing
+            string query = "SELECT * FROM ThongTinSanh";
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        SqlDataAdapter adapter = new SqlDataAdapter(command);
+                        DataTable loaiSanhTable = new DataTable();
+                        adapter.Fill(loaiSanhTable);
+
+                        comboBoxLoaiSanh.DataSource = loaiSanhTable;
+                        comboBoxLoaiSanh.DisplayMember = "LoaiSanh";
+                        comboBoxLoaiSanh.ValueMember = "id";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi kết nối cơ sở dữ liệu: " + ex.Message);
+                }
+            }
         }
 
         public void Show_ComboboxCa()
         {
-            string query = "select * from Tiec";
-            DataProvider provider = new DataProvider();
-            comboBoxCa.DataSource = provider.ExecuteQuery(query);
-            comboBoxCa.DisplayMember = "Ca";
-            comboBoxCa.ValueMember = "Ca";//test
+            string query = "SELECT * FROM Tiec";
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        SqlDataAdapter adapter = new SqlDataAdapter(command);
+                        DataTable caTable = new DataTable();
+                        adapter.Fill(caTable);
+
+                        comboBoxCa.DataSource = caTable;
+                        comboBoxCa.DisplayMember = "Ca";
+                        comboBoxCa.ValueMember = "Ca";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi kết nối cơ sở dữ liệu: " + ex.Message);
+                }
+            }
         }
 
         public void Show_ComboboxThucDon()
         {
-            string query = "select * from ThucDon";
-            DataProvider provider = new DataProvider();
-            comboBoxThucDon.DataSource = provider.ExecuteQuery(query);
-            comboBoxThucDon.DisplayMember = "MaThucDon";
-            comboBoxThucDon.ValueMember = "id";
+            string query = "SELECT * FROM ThucDon";
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        SqlDataAdapter adapter = new SqlDataAdapter(command);
+                        DataTable thucDonTable = new DataTable();
+                        adapter.Fill(thucDonTable);
+
+                        comboBoxThucDon.DataSource = thucDonTable;
+                        comboBoxThucDon.DisplayMember = "MaThucDon";
+                        comboBoxThucDon.ValueMember = "id";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi kết nối cơ sở dữ liệu: " + ex.Message);
+                }
+            }
         }
 
         public void Show_ComboboxDichVu()
         {
-            string query = "select * from DichVu";
-            DataProvider provider = new DataProvider();
-            comboBoxDichVu.DataSource = provider.ExecuteQuery(query);
-            comboBoxDichVu.DisplayMember = "MaDichVu";
-            comboBoxDichVu.ValueMember = "id";
+            string query = "SELECT * FROM DichVu";
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        SqlDataAdapter adapter = new SqlDataAdapter(command);
+                        DataTable dichVuTable = new DataTable();
+                        adapter.Fill(dichVuTable);
+
+                        comboBoxDichVu.DataSource = dichVuTable;
+                        comboBoxDichVu.DisplayMember = "MaDichVu";
+                        comboBoxDichVu.ValueMember = "id";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi kết nối cơ sở dữ liệu: " + ex.Message);
+                }
+            }
         }
 
-      
 
         private void comboBoxLoaiSanh_SelectedIndexChanged(object sender, EventArgs e)
         {
-           
+
         }
 
         private void comboBoxTenNhanVien_SelectedIndexChanged(object sender, EventArgs e)
@@ -486,7 +573,7 @@ namespace QL_TiecCuoi
 
         private void LapHopDong_Load(object sender, EventArgs e)
         {
-           
+
         }
 
         private void comboBoxDichVu_SelectedIndexChanged(object sender, EventArgs e)
@@ -508,30 +595,30 @@ namespace QL_TiecCuoi
 
         private void textBoxTenKhachHang_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!System.Text.RegularExpressions.Regex.IsMatch(e.KeyChar.ToString(), @"[^0-9^+^\!^\#^\$^\%^\&^\'^\(^\)^\*^\,^\-^\.^\/^\:^\;^\<^\=^\>^\?^\@^\[^\\^\]^\^_^\`^\{^\|^\}^\~]"))
+            if (!System.Text.RegularExpressions.Regex.IsMatch(e.KeyChar.ToString(), @"[^0-9^+^\!^\#^\$^\%^\&^\'^\(^\)^\*^\,^\-^\.^\/^\:^\;^\<^\=^\>^\?^\@^\[^\\^\]^\^_^\^\{^\|^\}^\~]"))
             {
                 // Stop the character from being entered into the control since it is illegal.
                 e.Handled = true;
             }
-        
+
 
 
         }
 
         private void textBoxTenChuRe_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!System.Text.RegularExpressions.Regex.IsMatch(e.KeyChar.ToString(), @"[^0-9^+^\!^\#^\$^\%^\&^\'^\(^\)^\*^\,^\-^\.^\/^\:^\;^\<^\=^\>^\?^\@^\[^\\^\]^\^_^\`^\{^\|^\}^\~]"))
+            if (!System.Text.RegularExpressions.Regex.IsMatch(e.KeyChar.ToString(), @"[^0-9^+^\!^\#^\$^\%^\&^\'^\(^\)^\*^\,^\-^\.^\/^\:^\;^\<^\=^\>^\?^\@^\[^\\^\]^\^_^\^\{^\|^\}^\~]"))
             {
                 // Stop the character from being entered into the control since it is illegal.
                 e.Handled = true;
             }
-           
-           
+
+
         }
 
         private void textBoxTenCoDau_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!System.Text.RegularExpressions.Regex.IsMatch(e.KeyChar.ToString(), @"[^0-9^+^\!^\#^\$^\%^\&^\'^\(^\)^\*^\,^\-^\.^\/^\:^\;^\<^\=^\>^\?^\@^\[^\\^\]^\^_^\`^\{^\|^\}^\~]"))
+            if (!System.Text.RegularExpressions.Regex.IsMatch(e.KeyChar.ToString(), @"[^0-9^+^\!^\#^\$^\%^\&^\'^\(^\)^\*^\,^\-^\.^\/^\:^\;^\<^\=^\>^\?^\@^\[^\\^\]^\^_^\^\{^\|^\}^\~]"))
             {
                 // Stop the character from being entered into the control since it is illegal.
                 e.Handled = true;
@@ -545,7 +632,7 @@ namespace QL_TiecCuoi
                 e.Handled = true;
 
             }
-           
+
         }
 
         private void textBoxTienCoc_KeyPress(object sender, KeyPressEventArgs e)
@@ -554,7 +641,7 @@ namespace QL_TiecCuoi
             {
                 e.Handled = true;
             }
-           
+
         }
 
         private void textBoxSoLuongBan_KeyPress(object sender, KeyPressEventArgs e)
@@ -575,23 +662,23 @@ namespace QL_TiecCuoi
             }
         }
         private ToolTip tooltip;
-      
+
         private void textBoxTienCoc_TextChanged(object sender, EventArgs e)
         {
             int a;
             bool isAValid = int.TryParse(textBoxTienCoc.Text.Trim(), out a);
-           
-             if (tooltip == null)
-             {
-                 tooltip = new ToolTip();
-             }
 
-             if (a < 10000000)
-             {
-                 tooltip.Show("Tiền cọc tối thiểu là 10.000.000 đồng", textBoxTienCoc, 2000);
-             }
-           
-       
+            if (tooltip == null)
+            {
+                tooltip = new ToolTip();
+            }
+
+            if (a < 10000000)
+            {
+                tooltip.Show("Tiền cọc tối thiểu là 10.000.000 đồng", textBoxTienCoc, 2000);
+            }
+
+
 
 
 
@@ -604,23 +691,23 @@ namespace QL_TiecCuoi
 
         private void textBoxTenChuRe_TextChanged(object sender, EventArgs e)
         {
-           
+
         }
 
         private void textBoxTenChuRe_MouseEnter(object sender, EventArgs e)
         {
-           
+
         }
 
         private void dateTimePickerNgayToChuc_ValueChanged(object sender, EventArgs e)
         {
-           
+
         }
-        
+
 
         private void comboBoxCa_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private bool KtraToChuc()
@@ -629,12 +716,12 @@ namespace QL_TiecCuoi
             string ngayToChuc = dateTimePickerNgayToChuc.Value.ToString(formatDate);
             string loaiSanh = comboBoxLoaiSanh.SelectedValue.ToString().Trim();
             string ca = comboBoxCa.SelectedValue.ToString().Trim();
-            string query0 = "select count(*) as count from ThongTinDatTiec a left join ThongTinKhachHang p on p.id = a.IDThongTinKhachHang where p.NgayToChuc = '"+ ngayToChuc +"' and a.Ca = '"+ca+"' and a.IdLoaiSanh = '"+loaiSanh+"'";
+            string query0 = "select count(*) as count from ThongTinDatTiec a left join ThongTinKhachHang p on p.id = a.IDThongTinKhachHang where p.NgayToChuc = '" + ngayToChuc + "' and a.Ca = '" + ca + "' and a.IdLoaiSanh = '" + loaiSanh + "'";
             DataProvider provider = new DataProvider();
             DataTable t = provider.ExecuteQuery(query0);
             int a;
             int.TryParse(t.Rows[0]["count"].ToString(), out a);
-           // Console.WriteLine("----------------------------");
+            // Console.WriteLine("----------------------------");
             Console.WriteLine(a);
             if (a > 0)
             {

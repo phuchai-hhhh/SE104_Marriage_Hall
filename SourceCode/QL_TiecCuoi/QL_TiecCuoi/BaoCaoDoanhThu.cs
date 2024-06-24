@@ -1,18 +1,14 @@
-﻿using QL_TiecCuoi.DAO;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using System;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Data.SqlClient;
 using System.Windows.Forms;
 
 namespace QL_TiecCuoi
 {
     public partial class BaoCaoDoanhThu : Form
     {
+        private string connectionString = "Data Source=DESKTOP-1BTJ3G2\\SQLEXPRESS;Initial Catalog=Marriage_Hall;Integrated Security=True";
+
         public BaoCaoDoanhThu()
         {
             InitializeComponent();
@@ -27,28 +23,67 @@ namespace QL_TiecCuoi
 
         private void BaoCaoDoanhThu_Load(object sender, EventArgs e)
         {
-            string query = "Select * from LapBaoCao";
-            DataProvider provider = new DataProvider();
-            dataGridViewDSBaoCao.DataSource = provider.ExecuteQuery(query);
+            LoadBaoCaoDoanhThu();
+        }
+
+        private void LoadBaoCaoDoanhThu()
+        {
+            string query = "SELECT id, MaBaoCao, NgayLap, TenNguoiLap, Thang, SoLuongTiec, DoanhThu FROM LapBaoCao";
+
+            try
+            {
+                using (SqlConnection con = new SqlConnection(connectionString))
+                using (SqlCommand cmd = new SqlCommand(query, con))
+                using (SqlDataAdapter adapter = new SqlDataAdapter(cmd))
+                {
+                    DataTable dt = new DataTable();
+                    adapter.Fill(dt);
+                    dataGridViewDSBaoCao.DataSource = dt;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading report data: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            DataProvider provider = new DataProvider();
-            string query1 = "Insert into BaoCaoDoanhThu ( Thang,TongDoanhThu) Values('"
-                + textBoxThang.Text + "' , '"
-                + textBoxTongDoanhThu.Text + "')";
-            provider.ExecuteWrite(query1);
-            MessageBox.Show("Bạn đã lưu thành công!", "THÔNG BÁO", MessageBoxButtons.OK);
-
-            
+            if (!string.IsNullOrEmpty(textBoxThang.Text) && !string.IsNullOrEmpty(textBoxTongDoanhThu.Text))
+            {
+                string query = "INSERT INTO BaoCaoDoanhThu (Thang, TongDoanhThu) VALUES (@Thang, @TongDoanhThu)";
+                using (SqlConnection con = new SqlConnection(connectionString))
+                using (SqlCommand cmd = new SqlCommand(query, con))
+                {
+                    cmd.Parameters.AddWithValue("@Thang", textBoxThang.Text);
+                    cmd.Parameters.AddWithValue("@TongDoanhThu", textBoxTongDoanhThu.Text);
+                    con.Open();
+                    cmd.ExecuteNonQuery();
+                }
+                MessageBox.Show("Bạn đã lưu thành công!", "THÔNG BÁO", MessageBoxButtons.OK);
+            }
+            else
+            {
+                MessageBox.Show("Vui lòng điền đầy đủ thông tin", "THÔNG BÁO", MessageBoxButtons.OK);
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string query = "Select * from BaoCaoDoanhThu";
-            DataProvider provider = new DataProvider();
-            dataGridViewTongDoanhThu.DataSource = provider.ExecuteQuery(query);
+            LoadTongDoanhThu();
+        }
+
+        private void LoadTongDoanhThu()
+        {
+            string query = "SELECT * FROM BaoCaoDoanhThu";
+            using (SqlConnection con = new SqlConnection(connectionString))
+            using (SqlCommand cmd = new SqlCommand(query, con))
+            using (SqlDataAdapter adapter = new SqlDataAdapter(cmd))
+            {
+                DataTable dt = new DataTable();
+                adapter.Fill(dt);
+                dataGridViewTongDoanhThu.DataSource = dt;
+            }
         }
     }
 }
